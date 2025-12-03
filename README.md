@@ -21,7 +21,5 @@ This paper proposes a novel approach that integrates Small Language Models (SLMs
 If you would like to cite this paper, please use the following reference:
 @inproceedings{author2025slmrag,
 title={A Novel Approach Based on Integrating Small Language Models and Retrieval-Augmented Generation for Medical Question Answering},
-author={Nguyen, Gia Bao and Le, Quang Hung},
-booktitle={Proceedings of the 2nd International Conference on Computational Intelligence in Engineering Science},
-year={2025}
+author={Nguyen, Gia Bao and Le, Quang Hung}
 }
